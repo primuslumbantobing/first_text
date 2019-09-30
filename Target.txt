@@ -5,3 +5,6 @@ Target 4
 Menambah
 Target 5
 Target 6
+Menambah
+Target 7
+Target 8
