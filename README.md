@@ -1,0 +1,2 @@
+# first_text
+MasihLatihan
