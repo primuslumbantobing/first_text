@@ -2,6 +2,7 @@ Target 1
 Target 2
 Target 3
 Target 4
+Target 4(2)
 Menambah
 Target 5
 Target 6
